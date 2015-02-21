@@ -1,0 +1,14 @@
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.dll
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.pdb
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.dll
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\bin\x86\Debug\KeyPassInfoModel.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.pdb
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassInfoModel\obj\x86\Debug\KeyPassInfoModel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+C:\Fotki\prosmotret\BU CS 503\app project\Solution1\Bin\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\app project\Solution1\Bin\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\app project\Solution1\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\app project\Solution1\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\app project\Solution1\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\app project\Project 1 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\app project\Project 1 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\app project\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\app project\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\app project\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 1 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 1 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 1 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\My temp Solution 2\Bin\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\My temp Solution 2\Bin\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\My temp Solution 2\Bin\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\My temp Solution 2\Bin\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\My temp Solution 2\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 2 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 2 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 2 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Project 2 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 2 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 3 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 3 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 3 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Evsey\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\Bin\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\Bin\KeyPassBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Project 4 Ivan Cherapau\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
